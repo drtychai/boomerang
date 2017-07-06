@@ -17,7 +17,7 @@ The following line must also be added to your torrc file (typically found in /us
 
 ## Usage
 
-Usage of Boomerang is quite simple. Begin by starting Tor (running the command “tor” in a terminal). Once tor is fully bootstrapped, Boomerang can be used.
+Usage of Boomerang is quite simple. Begin by starting Tor (running the command ```tor``` in a terminal). Once tor is fully bootstrapped, Boomerang can be used.
 
 To host a server:
 
